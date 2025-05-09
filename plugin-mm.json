@@ -1,8 +1,8 @@
 {
     "MetaModulePluginMaintainer": "oksami",
     "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
-    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-kompas",
-    "MetaModuleDescription": "Kompas for MetaModule",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-autinn",
+    "MetaModuleDescription": "Autinn for MetaModule",
     "MetaModuleIncludedModules": [
         {
             "slug": "Amp",
