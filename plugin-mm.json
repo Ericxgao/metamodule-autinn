@@ -1,0 +1,100 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-kompas",
+    "MetaModuleDescription": "Kompas for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Amp",
+            "name": "Amp"
+        },
+        {
+            "slug": "Bass",
+            "name": "Bass"
+        },
+        {
+            "slug": "Boomerang",
+            "name": "Mera"
+        },
+        {
+            "slug": "CVConverter",
+            "name": "Conv"
+        },
+        {
+            "slug": "Deadband",
+            "name": "Deadband"
+        },
+        {
+            "slug": "Digi",
+            "name": "Digi"
+        },
+        {
+            "slug": "Disee",
+            "name": "DC"
+        },
+        {
+            "slug": "Flopper",
+            "name": "Flopper"
+        },
+        {
+            "slug": "Jette",
+            "name": "Jette"
+        },
+        {
+            "slug": "Oxcart",
+            "name": "Oxcart"
+        },
+        {
+            "slug": "Retri",
+            "name": "Flora"
+        },
+        {
+            "slug": "Saw",
+            "name": "Saw"
+        },
+        {
+            "slug": "Sjip",
+            "name": "Sjip"
+        },
+        {
+            "slug": "Square",
+            "name": "Square"
+        },
+        {
+            "slug": "Vector",
+            "name": "Vxy"
+        },
+        {
+            "slug": "Vibrato",
+            "name": "Vibrato"
+        },
+        {
+            "slug": "Zod",
+            "name": "Zod"
+        },
+        {
+            "slug": "TriBand",
+            "name": "Imp"
+        },
+        {
+            "slug": "Mixer6",
+            "name": "6 Channel Mixer"
+        },
+        {
+            "slug": "Non",
+            "name": "Non"
+        },
+        {
+            "slug": "Overdrive",
+            "name": "Fil"
+        },
+        {
+            "slug": "Distortion",
+            "name": "Nap"
+        },
+        {
+            "slug": "Melody",
+            "name": "Fluencerator"
+        }
+    ]
+}
